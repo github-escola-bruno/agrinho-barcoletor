@@ -14,7 +14,7 @@ O **WAVEBOT** é um barco robótico sustentável desenvolvido para despoluir rio
 - Ponte H L298N
 - Motores DC
 - Baterias Li-Po 3.7V e AA 1.5V
-- 
+  
 ## Resultados
 - Protótipo funcional capaz de coletar resíduos em ambientes aquáticos.
 - Solução replicável, com potencial para escalonamento em larga escala.
