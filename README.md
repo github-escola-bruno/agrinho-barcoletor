@@ -18,5 +18,7 @@ O **WAVEBOT** é um barco robótico sustentável desenvolvido para despoluir rio
 ## Resultados
 - Protótipo funcional capaz de coletar resíduos em ambientes aquáticos.
 - Solução replicável, com potencial para escalonamento em larga escala.
-  
+
 **Impacto**: O WAVEBOT é mais que um robô — é uma ferramenta educativa que combate a poluição enquanto inspira novas gerações a inovar com consciência ambiental.
+
+- #Agrinho2025
