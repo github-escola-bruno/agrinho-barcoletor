@@ -622,3 +622,16 @@ body {
         
     }
 }
+
+@media (max-width: 1024px) {
+    .titulo-projeto-detalhe {
+        font-size: 2em;
+    }
+
+    .imagem-destaque-projeto img {
+        max-width: 95%;
+        max-height: 50%;
+        
+    }
+}
+
