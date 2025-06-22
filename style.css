@@ -623,15 +623,10 @@ body {
     }
 }
 
-@media (max-width: 1024px) {
-    .titulo-projeto-detalhe {
-        font-size: 2em;
-    }
-
+@media (min-width: 1025px) {
     .imagem-destaque-projeto img {
-        max-width: 95%;
-        max-height: 50%;
-        
+        max-height: 300px !important;
+        height: auto !important;
     }
 }
 
