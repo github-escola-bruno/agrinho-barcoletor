@@ -607,6 +607,10 @@ body {
     color: white;
 }
 
+#fotoprincipal{
+    height: 50%;
+}
+
 /* Responsividade para a página de detalhe */
 @media (max-width: 768px) {
     .titulo-projeto-detalhe {
