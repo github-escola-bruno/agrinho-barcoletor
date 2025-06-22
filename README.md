@@ -1,4 +1,4 @@
-# WAVEBOT: Tecnologia que Limpa as Águas 🌊🤖
+# WAVEBOT: Tecnologia que Limpa as Águas 🌊🤖  #Agrinho2025
 
 ## Descrição do Projeto
 O **WAVEBOT** é um barco robótico sustentável desenvolvido para despoluir rios e lagos, coletando resíduos flutuantes como plásticos. Controlado via Bluetooth e construído com materiais acessíveis, o protótipo integra tecnologia e sustentabilidade, transformando lixo em matéria-prima para reciclagem.
