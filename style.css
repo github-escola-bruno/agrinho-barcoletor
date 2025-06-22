@@ -560,7 +560,7 @@ body {
 
 .imagem-destaque-projeto img {
     max-width: 80%;
-   height: 30%;
+    height: 10%;
     
     border-radius: var(--raio-borda);
     box-shadow: var(--sombra-padrao);
