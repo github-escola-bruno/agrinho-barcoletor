@@ -625,7 +625,7 @@ body {
 
 @media (min-width: 1025px) {
     .imagem-destaque-projeto img {
-        max-height: 300px !important;
+        max-height: 500px !important;
         height: auto !important;
     }
 }
